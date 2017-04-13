@@ -1,2 +1,5 @@
 # hello-world
-This repository is a part of GitHub tutorial.
+
+Hey everyone!
+
+I am Jakub and I like programming. I am interested in app and game development.
